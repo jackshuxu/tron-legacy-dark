@@ -1,0 +1,21 @@
+{
+  "name": "tron-legacy-dark",
+  "displayName": "Tron Legacy Dark",
+  "description": "A theme modeled after the primary colors of the competing teams in Tron Legacy",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tron Legacy Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tron Legacy Dark-color-theme.json"
+      }
+    ]
+  }
+}
